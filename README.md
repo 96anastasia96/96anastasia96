@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=96anastasia96&label=Profile%20views&color=0e75b6&style=flat" alt="96anastasia96" /> </p>
 
 - 🌱 I’m currently learning **QA Manual**
+- 🌱 **Python** developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/96anastasia96?tab=repositories](https://github.com/96anastasia96?tab=repositories)
 
